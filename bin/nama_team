@@ -1,0 +1,3 @@
+require_relative "../lib/nama_team.rb"
+
+puts NamaTeam.convert_all(1..100)
